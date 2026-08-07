@@ -1,0 +1,1 @@
+window.AMAZON_LINKS={marmol:{ebook:"",paper:""},oxido:{ebook:"",paper:""},piedra:{ebook:"",paper:""},lodo:{ebook:"",paper:""},bronce:{ebook:"",paper:""},polvo:{ebook:"",paper:""}};
