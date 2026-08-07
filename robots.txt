@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://atreyu1968.github.io/landing/sitemap.xml

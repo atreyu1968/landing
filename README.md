@@ -1,5 +1,7 @@
-# Sombras sobre el Tíber — Landing oficial
+# Sombras sobre el Tíber — landing premium
 
-Landing premium de la serie completa de seis thrillers de **Lorenzo Malipiero**. Incluye SEO, datos estructurados, AEO/GEO, `llms.txt`, diseño responsive y botones preparados para Amazon.
+Landing oficial de la serie de Lorenzo Malipiero.
 
-URL prevista de GitHub Pages: https://atreyu1968.github.io/landing/
+Esta versión corrige la anterior y utiliza las portadas originales de la serie como eje visual en el hero, las fichas de los seis volúmenes y el orden de lectura.
+
+Los enlaces de Amazon se activan editando `amazon-links.js`.
