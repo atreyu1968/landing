@@ -1,0 +1,1 @@
+document.querySelectorAll("[data-book]").forEach(a=>{let u=AMAZON_LINKS?.[a.dataset.book]?.[a.dataset.format];if(u){a.href=u;a.target="_blank";a.rel="noopener sponsored";a.textContent=a.dataset.format==="ebook"?"Comprar ebook":"Comprar en papel"}else{a.removeAttribute("href")}});
